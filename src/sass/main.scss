@@ -1,0 +1,9 @@
+/*
+ * Главный файл стилей.
+ * Все паршалы подключаются сюда.
+ */
+
+// Стили для файла с примером HTML-фрагмента
+@import '../sass/utils/base';
+@import '../sass/utils/container';
+@import '../sass/layout/slider';
